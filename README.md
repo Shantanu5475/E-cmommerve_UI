@@ -1,4 +1,4 @@
-# E-cmommerve_UI
+# E-commerce_UI
 
 **E-Commerce Product Listing App**
 
